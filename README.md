@@ -23,4 +23,10 @@ Main Widgets used
 
 # Screenshots
 
-![sc](./facebook/pcs/1st.jpg)
+![sc](pcs/1st.jpg)
+![sc](pcs/5.jpg)
+![sc](pcs/10.jpg)
+![sc](pcs/9.jpg)
+![sc](pcs/11.jpg)
+![sc](pcs/12.jpg)
+![sc](pcs/4.jpg)
