@@ -23,7 +23,7 @@ Main Widgets used
 
 # Screenshots
 
-![sc](pcs/1st.jpg)
+![sc](pcs/1st.jpg){ width: 200px; }
 ![sc](pcs/5.jpg)
 ![sc](pcs/10.jpg)
 ![sc](pcs/9.jpg)
