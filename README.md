@@ -23,9 +23,9 @@ Main Widgets used
 
 # Screenshots
 
-<img src="pcs/1st.jpg" width="450">
-
 <img src="pcs/5.jpg" width="450">
+
+<img src="pcs/1st.jpg" width="450">
 
 <img src="pcs/10.jpg" width="450">
 
