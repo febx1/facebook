@@ -22,18 +22,25 @@ Main Widgets used
 - Row
 
 # Screenshots
+
 <img src="pcs/1st.jpg" width="450">
+
 <img src="pcs/5.jpg" width="450">
+
 <img src="pcs/10.jpg" width="450">
+
 <img src="pcs/9.jpg" width="450">
+
 <img src="pcs/11.jpg" width="350">
+
 <img src="pcs/12.jpg" width="450">
+
 <img src="pcs/4.jpg" width="450">
 
-![sc](pcs/1st.jpg){ width: 200px; }
+<!-- ![sc](pcs/1st.jpg)
 ![sc](pcs/5.jpg)
 ![sc](pcs/10.jpg)
 ![sc](pcs/9.jpg)
 ![sc](pcs/11.jpg)
 ![sc](pcs/12.jpg)
-![sc](pcs/4.jpg)
+![sc](pcs/4.jpg) -->
