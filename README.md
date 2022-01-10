@@ -3,6 +3,10 @@
 A new Flutter project.
 Recreate facebook android or IOS app UI using flutter.
 
+# ME
+
+- [My LinkedIn](https://www.linkedin.com/in/febin-george-a049951ba)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
